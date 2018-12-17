@@ -1,0 +1,1 @@
+select current_time, current_timestamp, cast(current_timestamp as timestamp), now(), now() - interval '5' hour;
